@@ -45,7 +45,7 @@
 
 # 🌐 Domain-Checker 🌐
 
-Welcome to Domain-Checker! This is an awesome tool that allows you to check if your domain is filtered in Iran. It checks across 3 different cities for comprehensive results. This project is a collaboration between @hossein-m and @bardiafa.
+Welcome to Domain-Checker! This is an awesome tool that allows you to check if your domain is filtered in Iran. It checks across 3 different cities for comprehensive results. This project is a collaboration between [Hossein-M](https://github.com/hossein-mohseni) and [bardiafa](https://github.com/Bardiafa).
 
 ## 🚀 Getting Started 🚀
 
